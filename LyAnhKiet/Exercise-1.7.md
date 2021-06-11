@@ -1,7 +1,6 @@
 Exercise 1.7
 
-Consider the following three example classes. These are OO faults taken from Joshua Bloch’s Effective Java, Second Edition. Answer the following questions about each.
-
+**Consider the following three example classes. These are OO faults taken from Joshua Bloch’s Effective Java, Second Edition. Answer the following questions about each.**<br>
 ## Vehicle, Truck, CloneTest
 ```Java
 // Vehicle.java

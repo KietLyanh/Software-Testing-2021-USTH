@@ -1,6 +1,6 @@
 Exercise 3.2
 
-Give a one-to-two paragraph explanation for how the inheritance hierarchy can affect controllability and observability.
+**Give a one-to-two paragraph explanation for how the inheritance hierarchy can affect controllability and observability.**<br>
 
 Inheritance in object-oriented programming can hinder controllability and observability. In some cases, a superclass has so many subclasses that it is hard to have a clear overview of the function and methods of each class. Moreover, methods can be overridden by a subclass, which makes it even harder to come up with test cases. 
 

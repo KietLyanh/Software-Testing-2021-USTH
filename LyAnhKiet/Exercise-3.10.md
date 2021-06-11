@@ -1,6 +1,6 @@
 Exercise 3.10
 
-Replace each occurrence of a set with a list in the JUnit theory removeThenAddDoesNotChangeSet. Is the resulting theory valid or invalid? How many of the tests that pass the precondition also pass the postcondition? Explain
+**Replace each occurrence of a set with a list in the JUnit theory removeThenAddDoesNotChangeSet. Is the resulting theory valid or invalid? How many of the tests that pass the precondition also pass the postcondition? Explain.**<br>
 
 The resulting theory is not valid because order matters in lists. When we remove then add an element back, its position in the list could have been changed and therefore, the list is different.
 

@@ -1,6 +1,6 @@
 Exercise 9.1.2.4
 
-Consider the following BNF:
+**Consider the following BNF:**
 
 ```
 A ::= 0 B | 0 M | 0 B M
@@ -8,11 +8,15 @@ A ::= 0 B | 0 M | 0 B M
 B ::= "i" | "f" | "c" | "r"
 M ::= "o" | "t" | "p" | "a" | "h"
 ```
-(a) How many nonterminal symbols are in the grammar?
-(b) How many terminal symbols are in the grammar?
-(c) Write two strings that are valid according to the BNF.
-(d) For each of your two strings, give two valid mutants of the string.
-(e) For each of your two strings, give two invalid mutants of the string.
+**(a) How many nonterminal symbols are in the grammar?**<br>
+
+**(b) How many terminal symbols are in the grammar?**<br>
+
+**(c) Write two strings that are valid according to the BNF.**<br>
+
+**(d) For each of your two strings, give two valid mutants of the string.**<br>
+
+**(e) For each of your two strings, give two invalid mutants of the string.**<br>
 
 ## a)
 

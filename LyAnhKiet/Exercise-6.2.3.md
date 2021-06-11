@@ -1,6 +1,6 @@
 Exercise 6.2.3
 
-Write down all 16 tests to satisfy Multiple Base Choice coverage (MBCC) for the second categorization of triang()’s inputs inTable 6.2. Use the values in Table 6.3.
+**Write down all 16 tests to satisfy Multiple Base Choice coverage (MBCC) for the second categorization of triang()’s inputs inTable 6.2. Use the values in Table 6.3.**
 
 
 ### Test case

@@ -1,24 +1,24 @@
 Exercise 8.2.1
 
-Use predicates (i) through (iv) to answer the following questions.
-i. f = ab(-c) + (-a)b(-c)  
-ii. f = (-a)(-b)(-c)(-d) + abcd  
-iii. f = ab + a(-b)c + (-a)(-b)c  
-iv. f = (-a)(-c)(-d) + (-c)d + bcd  
+**Use predicates (i) through (iv) to answer the following questions.**<br>
+**i. f = ab(-c) + (-a)b(-c)**<br>
+**ii. f = (-a)(-b)(-c)(-d) + abcd**<br>
+**iii. f = ab + a(-b)c + (-a)(-b)c**<br>
+**iv. f = (-a)(-c)(-d) + (-c)d + bcd**<br>
 
-(a) Draw the Karnaugh maps for f and -f.
+**(a) Draw the Karnaugh maps for f and -f.**<br>
 
-(b) Find the nonredundant prime implicant representation for f and -f.
+**(b) Find the nonredundant prime implicant representation for f and -f.**<br>
 
-(c) Give a test set that satisfies Implicant Coverage (IC) for f.
+**(c) Give a test set that satisfies Implicant Coverage (IC) for f.**<br>
 
-(d) Give a test set that satisfies Multiple Unique True Points (MUTP) for f.
+**(d) Give a test set that satisfies Multiple Unique True Points (MUTP) for f.**<br>
 
-(e) Give a test set that satisfies Corresponding Unique True Point and Near False Point Pair Coverage (CUTPNFP) for f.
+**(e) Give a test set that satisfies Corresponding Unique True Point and Near False Point Pair Coverage (CUTPNFP) for f.**<br>
 
-(f) Give a test set that satisfies Multiple Near False Points (MNFP) for f.
+**(f) Give a test set that satisfies Multiple Near False Points (MNFP) for f.**<br>
 
-(g) Give a test set that is guaranteed to detect all faults in Figure 8.2.
+**(g) Give a test set that is guaranteed to detect all faults in Figure 8.2.**<br>
 
 
 ### a. Draw the Karnaugh maps for f and -f

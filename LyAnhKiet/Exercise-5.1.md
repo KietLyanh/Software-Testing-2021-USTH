@@ -1,9 +1,15 @@
 Exercise 5.1
 
-Suppose that coverage criterion C1 subsumes coverage criterion C2. Further suppose that test set T1 satisfies C1 on program P, and test set T2 satisfies C2, also on P.
-(a) Does T1 necessarily satisfy C2? Explain.
-(b) Does T2 necessarily satisfy C1? Explain.
-(c) If P contains a fault, and T2 reveals the fault, T1 does not necessarily also reveal the fault. Explain.
+**Suppose that coverage criterion C1 subsumes coverage criterion C2. Further suppose that test set T1 satisfies C1 on program P, and test set T2 satisfies C2, also on P.**<br>
+
+**(a) Does T1 necessarily satisfy C2? Explain.**<br>
+
+
+**(b) Does T2 necessarily satisfy C1? Explain.**<br>
+
+
+**(c) If P contains a fault, and T2 reveals the fault, T1 does not necessarily also reveal the fault. Explain.**<br>
+
 
 a)
 - Yes, T1 necessarily satisfy C2 because of pure definition of Criterion Subsumption.

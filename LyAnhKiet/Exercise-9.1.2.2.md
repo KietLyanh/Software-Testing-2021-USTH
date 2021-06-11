@@ -1,6 +1,6 @@
 Exercise 9.1.2.2
 
-How is the mutation score related to coverage from Chapter 5?
+**How is the mutation score related to coverage from Chapter 5?**
 
 [This article](https://www.researchgate.net/publication/305869980_Relating_Code_Coverage_Mutation_Score_and_Test_Suite_Reducibility_to_Defect_Density) examined how mutation score is related to coverage. It had concluded that traditional mutation score improves the relationship to defect density, but the characteristic of this indicator is still very much aligned with the overall code coverage.
 

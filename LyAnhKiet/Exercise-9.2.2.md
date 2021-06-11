@@ -1,10 +1,14 @@
 Exercise 9.2.2 
 
-Answer questions (a) through (d) for the mutant on line 5 in the method findVal().
-(a) If possible, find test inputs that do not reach the mutant.
-(b) If possible, find test inputs that satisfy reachability but not infection for the mutant.
-(c) If possible, find test inputs that satisfy infection, but not propagation for the mutant.
-(d) If possible, find test inputs that strongly kill the mutants.
+**Answer questions (a) through (d) for the mutant on line 5 in the method findVal().**<br>
+
+**(a) If possible, find test inputs that do not reach the mutant.**<br>
+
+**(b) If possible, find test inputs that satisfy reachability but not infection for the mutant.**<br>
+
+**(c) If possible, find test inputs that satisfy infection, but not propagation for the mutant.**<br>
+
+**(d) If possible, find test inputs that strongly kill the mutants.**<br>
 
 ## Original
 

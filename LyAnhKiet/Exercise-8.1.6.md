@@ -1,6 +1,6 @@
 Exercise 8.1.6
 
-In Section 8.1.6, we introduced the example p = (a ∨ b) ∧ c, and mprovided expanded versions of the clauses using program variables. We then gave specific values to satisfy PC. We also gave truth values to satisfy CC. Find values for the program variables given to satisfy CC; that is, refine the abstract tests into concrete test values.
+**In Section 8.1.6, we introduced the example p = (a ∨ b) ∧ c, and mprovided expanded versions of the clauses using program variables. We then gave specific values to satisfy PC. We also gave truth values to satisfy CC. Find values for the program variables given to satisfy CC; that is, refine the abstract tests into concrete test values.**
 
 p = (a v b) ^ c
 

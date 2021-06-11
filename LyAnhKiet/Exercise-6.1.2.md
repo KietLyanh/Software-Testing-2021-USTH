@@ -1,6 +1,6 @@
 Exercise 6.1.2
 
-A tester defined three characteristics based on the input parameter car: Where Made, Energy Source, and Size. The following partitionings for these characteristics have at least two mistakes. Correct them
+**A tester defined three characteristics based on the input parameter car: Where Made, Energy Source, and Size. The following partitionings for these characteristics have at least two mistakes. Correct them**
 
 There should be 4 characteristics:
 - Where made: North America, Europe, Asia, Other

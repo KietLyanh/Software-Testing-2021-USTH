@@ -1,18 +1,18 @@
 Exercise 1.5
 
-Below are four faulty programs. Each includes test inputs that result in failure. Answer the following questions about each program.
+**Below are four faulty programs. Each includes test inputs that result in failure. Answer the following questions about each program.**<br>
 
-(a) Explain what is wrong with the given code. Describe the fault precisely by proposing a modification to the code.
+**(a) Explain what is wrong with the given code. Describe the fault precisely by proposing a modification to the code.**<br>
 
-(b) If possible, give a test case that does not execute the fault. If not, briefly explain why not.
+**(b) If possible, give a test case that does not execute the fault. If not, briefly explain why not.**<br>
 
-(c) If possible, give a test case that executes the fault, but does not result in an error state. If not, briefly explain why not.
+**(c) If possible, give a test case that executes the fault, but does not result in an error state. If not, briefly explain why not.**<br>
 
-(d) If possible give a test case that results in an error, but not a failure. If not, briefly explain why not. Hint: Don’t forget about the program counter.
+**(d) If possible give a test case that results in an error, but not a failure. If not, briefly explain why not. Hint: Don’t forget about the program counter.**<br>
 
-(e) For the given test case, describe the first error state. Be sure to describe the complete state.
+**(e) For the given test case, describe the first error state. Be sure to describe the complete state.**<br>
 
-(f) Implement your repair and verify that the given test now produces the expected output. Submit a screen printout or other evidence that your new program works.
+**(f) Implement your repair and verify that the given test now produces the expected output. Submit a screen printout or other evidence that your new program works.**<br>
 
 # Program 1
 

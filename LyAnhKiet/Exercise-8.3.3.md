@@ -1,6 +1,6 @@
 Exercise 8.3.3
 
-Complete and run the tests to satisfy CACC for the Thermostat class.
+**Complete and run the tests to satisfy CACC for the Thermostat class.**
 
 curTemp < (desiredTemp - thresholdDiff): 60 69 7
 

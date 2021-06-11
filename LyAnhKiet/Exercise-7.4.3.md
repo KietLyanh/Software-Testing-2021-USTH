@@ -1,6 +1,6 @@
 Exercise 7.4.3
 
-Use the following program fragment for questions a–e below.
+**Use the following program fragment for questions a–e below.**<br>
 ```
 public static void f1 (int x, int y)
 {
@@ -18,18 +18,22 @@ public static void f4() {... f6()....}
 public static void f5() {... f6()....}
 public static void f6() {...}
 ```
-Use the following test inputs:
-- t1 = f1 (0, 0)
-- t2 = f1 (1, 1)
-- t3 = f1 (0, 1)
-- t4 = f1 (3, 2)
-- t5 = f1 (3, 4)
+**Use the following test inputs:**<br>
+**- t1 = f1 (0, 0)**<br>
+**- t2 = f1 (1, 1)**<br>
+**- t3 = f1 (0, 1)**<br>
+**- t4 = f1 (3, 2)**<br>
+**- t5 = f1 (3, 4)**<br>
 
-(a) Draw the call graph for this program fragment.
-(b) Give the path in the graph followed by each test.
-(c) Find a minimal test set that achieves Node Coverage.
-(d) Find a minimal test set that achieves Edge Coverage.
-(e) Give the prime paths in the graph. Which prime path is not covered by any of the tests above?
+**(a) Draw the call graph for this program fragment.**<br>
+
+**(b) Give the path in the graph followed by each test.**<br>
+
+**(c) Find a minimal test set that achieves Node Coverage.**<br>
+
+**(d) Find a minimal test set that achieves Edge Coverage.**<br>
+
+**(e) Give the prime paths in the graph. Which prime path is not covered by any of the tests above?**<br>
 
 
 ### a)

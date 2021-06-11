@@ -1,6 +1,6 @@
 Exercise 6.1.3
 
-Answer the following questions for the method search() below:
+**Answer the following questions for the method search() below:**
 ``` java
 public static int search (List list, Object element)
 // Effects: if list or element is null throw NullPointerException
@@ -17,14 +17,14 @@ Block 1: element is first entry in list
 Block 2: element is last entry in list
 Block 3: element is in some position other than first or last
 ```
-(a) “Location of element in list” fails the disjointness property. Give an example that
-illustrates this.
+**(a) “Location of element in list” fails the disjointness property. Give an example that illustrates this.**<br>
 
-(b) “Location of element in list” fails the completeness property. Give an example that
-illustrates this.
 
-(c) Supply one or more new partitions that capture the intent of “Location of element in
-list” but do not suffer from completeness or disjointness problems.
+**(b) “Location of element in list” fails the completeness property. Give an example that illustrates this.**<br>
+
+
+**(c) Supply one or more new partitions that capture the intent of “Location of element in list” but do not suffer from completeness or disjointness problems.**<br>
+
 
 ## a)
 
